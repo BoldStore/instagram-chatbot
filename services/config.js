@@ -36,7 +36,7 @@ module.exports = {
   shopUrl: process.env.SHOP_URL || "https://www.originalcoastclothing.com",
 
   // URL of your app domain. Will be automatically updated.
-  appUrl: process.env.APP_URL || "<App URL>",
+  appUrl: process.env.APP_URL || "https://bold-ig-chatbot.herokuapp.com",
 
   // Preferred port (default to 3000)
   port: process.env.PORT || 3000,
