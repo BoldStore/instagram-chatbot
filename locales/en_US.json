@@ -8,7 +8,7 @@
 		"help": "Reach Product Expert",
 		"suggestion": "New Products",
 		"shop": "Shop now",
-		"start_over": "Start Over"
+		"start_over": "Start over"
 	},
 	"private_reply": {
 		"post": "Thanks for liking our post! This is as far as the demo goes. In a production experience, this message would come from a human agent. See https://fb.me/get-sample-oc-ig to learn how to build a similar experience."
