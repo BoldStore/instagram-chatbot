@@ -19,7 +19,8 @@ const ENV_VARS = [
   "APP_ID",
   "PAGE_ACCESS_TOKEN",
   "APP_SECRET",
-  "VERIFY_TOKEN"
+  "VERIFY_TOKEN",
+  "APP_URL"
 ];
 
 module.exports = {
