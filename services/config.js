@@ -20,13 +20,13 @@ const ENV_VARS = [
   "PAGE_ACCESS_TOKEN",
   "APP_SECRET",
   "VERIFY_TOKEN",
-  "APP_URL"
+  "APP_URL",
 ];
 
 module.exports = {
   // Messenger Platform API
   apiDomain: "https://graph.facebook.com",
-  apiVersion: "v11.0",
+  apiVersion: "v14.0",
 
   // Page and Application information
   pageId: process.env.PAGE_ID,
@@ -61,5 +61,5 @@ module.exports = {
         console.warn(`WARNING: Missing required environment variable ${key}`);
       }
     });
-  }
+  },
 };
